@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fuel-consumption-tracker/static/css/main.0d3018b7.css",
+    "main.js": "/fuel-consumption-tracker/static/js/main.182bfb05.js",
+    "static/media/logo.png": "/fuel-consumption-tracker/static/media/logo.9f8269ce91d7506e2079.png",
+    "index.html": "/fuel-consumption-tracker/index.html",
+    "main.0d3018b7.css.map": "/fuel-consumption-tracker/static/css/main.0d3018b7.css.map",
+    "main.182bfb05.js.map": "/fuel-consumption-tracker/static/js/main.182bfb05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d3018b7.css",
+    "static/js/main.182bfb05.js"
+  ]
+}
